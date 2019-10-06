@@ -4,8 +4,8 @@
 #include "pch.h"
 #include <iostream>
 #include <vector>
-#include <KaefUtil/XML_Writer.h>
-#include <KaefUtil/InterfaceIterator.h>
+//#include <XML_Writer.h>
+//#include <KaefUtil/InterfaceIterator.h>
 #include "DateTimeTest.h"
 
 using namespace KaefUtil;

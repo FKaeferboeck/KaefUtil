@@ -1,7 +1,7 @@
 #pragma once
 
-#include <KaefUtil/DateTime_boost.h>
-#include <KaefUtil/Version.h>
+#include <DateTime_boost.h>
+#include <Version.h>
 
 namespace DateTimeTest {
 

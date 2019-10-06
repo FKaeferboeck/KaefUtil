@@ -1,5 +1,5 @@
-#include <KaefUtil/DateTime_boost.h>
-#include <KaefUtil/Version.h>
+#include "DateTime_boost.h"
+#include "Version.h"
 
 using namespace PROJECT_NAMESPACE;
 using namespace boost::gregorian;
